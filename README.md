@@ -1,4 +1,4 @@
-# Linear-Regression_AppWeb-experience
+# Linear Regression_App/Web experience
 Data Science project: Linear regression model with Scikit-learn
 
 This project is analyzed with made up customer data of an Ecommerce company, aiming to solve a common business problem:
